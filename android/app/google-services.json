@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "922939645625",
+    "project_id": "bacaleg-49bd7",
+    "storage_bucket": "bacaleg-49bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922939645625:android:51da46ac7887166f230568",
+        "android_client_info": {
+          "package_name": "com.company.mycaleg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922939645625-18db6v2pbte823silduuptb6ufij2rfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqSZIcHRxASq73kAhOewF-DfqsuvdEEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922939645625-18db6v2pbte823silduuptb6ufij2rfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922939645625:android:c62fd675566892a9230568",
+        "android_client_info": {
+          "package_name": "com.example.mycaleg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922939645625-18db6v2pbte823silduuptb6ufij2rfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqSZIcHRxASq73kAhOewF-DfqsuvdEEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922939645625-18db6v2pbte823silduuptb6ufij2rfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
